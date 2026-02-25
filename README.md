@@ -1,16 +1,43 @@
-## Hi there 👋
+Shardul Bangale
 
-<!--
-**Shardul0x/Shardul0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity Engineer & Applied AI Builder
+Pune, India
 
-Here are some ideas to get you started:
+I design systems that are secure by architecture and intelligent by design — working at the intersection of threat intelligence, compiler security, and privacy-preserving AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I Work On
+
+🔐 AI-driven cyber threat detection
+
+🧩 Compiler-level obfuscation & reverse engineering resistance
+
+🔮 Post-Quantum Cryptography (ML-KEM)
+
+🧠 Homomorphic Encryption for secure computation
+
+🌌 Scientific deep learning (CNNs, VAEs, PINNs)
+
+Selected Work
+
+Cyber Threat Monitoring System
+Real-time detection pipeline using signal processing + ML for actionable intelligence.
+
+LLVM Obfuscator (NTRO Project)
+Compiler-integrated protection with encrypted strings and control-flow obfuscation.
+
+Post-Quantum + HE Secure Chat
+Quantum-resistant key exchange + encrypted server-side computation.
+
+Galaxy Evolution Modeling
+Deep learning applied to astrophysical morphology and long-term modeling.
+
+Core Stack
+
+Security: Threat Intelligence, Reverse Engineering, Obfuscation
+AI/ML: TensorFlow, Scikit-learn, LLM systems
+Languages: Python, C/C++, Java
+Tools: Git, MongoDB, Firebase
+
+I’m particularly interested in building systems that remain secure under adversarial pressure and future cryptographic shifts.
+
+📫 github.com/Shardul0x
