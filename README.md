@@ -1,17 +1,31 @@
 <div align="center">
 
-# ⚔️ Building Secure Systems for an Adversarial Future
+# Shardul Bangale
 
-### Cybersecurity Engineer • Applied AI Builder • Compiler Security Researcher
+### ⚔️ Cybersecurity Engineer • Applied AI Builder • Compiler Security Researcher
 
 <p align="center">
-Designing systems that remain intelligent, resilient, and secure under real-world adversarial pressure.
+Building intelligent systems designed to survive adversarial environments.
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity-Researcher-red?style=for-the-badge">
-  <img src="https://img.shields.io/badge/AI-Builder-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Applied-AI-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Zero%20Trust-Architect-green?style=for-the-badge">
+</p>
+
+<p align="center">
+  <a href="https://github.com/Shardul0x">
+    <img src="https://img.shields.io/badge/GitHub-Shardul0x-181717?style=flat-square&logo=github">
+  </a>
+  
+  <a href="https://linkedin.com/in/shardul-bangale">
+    <img src="https://img.shields.io/badge/LinkedIn-Shardul%20Bangale-0A66C2?style=flat-square&logo=linkedin">
+  </a>
+
+  <a href="mailto:shardulbangale@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail">
+  </a>
 </p>
 
 </div>
@@ -20,12 +34,12 @@ Designing systems that remain intelligent, resilient, and secure under real-worl
 
 # 🧠 About Me
 
-I’m **Shardul Bangale**, a Computer Science Engineering student specializing in **Cybersecurity, IoT, and Applied AI** at **VIIT Pune**.
+I’m a Computer Science Engineering student specializing in **Cybersecurity, IoT, and Applied AI** at **VIIT Pune**.
 
-My work focuses on building systems that are:
+My work focuses on designing systems that are:
 
 - secure by architecture,
-- resilient by design,
+- resilient under adversarial pressure,
 - and intelligent through AI.
 
 I work at the intersection of:
@@ -37,10 +51,10 @@ I work at the intersection of:
 - 🌐 Privacy-Preserving Computation
 - ⚙️ Industrial & IoT Security
 
-I’m particularly interested in creating systems capable of surviving:
+I’m particularly interested in building systems capable of surviving:
 
-- adversarial environments,
 - infrastructure compromise,
+- hostile environments,
 - and future cryptographic shifts.
 
 ---
@@ -108,7 +122,10 @@ Industrial cybersecurity architecture implementing:
 - Autonomous ICS threat response
 
 ### Stack
-`ESP32` • `Jetson Nano` • `Prometheus` • `Grafana` • `Isolation Forest`
+
+```bash
+ESP32 • Jetson Nano • Prometheus • Grafana • Isolation Forest
+```
 
 ---
 
@@ -122,7 +139,10 @@ Custom compiler-integrated protection framework featuring:
 - Reverse engineering resistance
 
 ### Stack
-`LLVM` • `C++` • `Compiler Internals`
+
+```bash
+LLVM • C++ • Compiler Internals
+```
 
 ---
 
@@ -135,7 +155,10 @@ Quantum-resistant secure messaging architecture combining:
 - Secure encrypted server-side computation
 
 ### Stack
-`TenSEAL` • `Python` • `Post-Quantum Crypto`
+
+```bash
+TenSEAL • Python • Post-Quantum Crypto
+```
 
 ---
 
@@ -149,7 +172,10 @@ AI-powered interview simulation ecosystem featuring:
 - Vector search pipelines
 
 ### Stack
-`React` • `FastAPI` • `Groq LLMs` • `FAISS`
+
+```bash
+React • FastAPI • Groq LLMs • FAISS
+```
 
 ---
 
@@ -166,7 +192,7 @@ Deep learning research pipeline applying:
 
 # 📚 Publications & Research
 
-### 📄 Publications
+## 📄 Publications
 
 - **Predictive Startup Analytics via Ensemble Learning** — IEEE Xplore (2026)
 - **Galaxy Evolution via VAEs and PINNs** — Springer Nature SCI-2026
@@ -260,29 +286,29 @@ I’m currently exploring:
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shardul0x&show_icons=true&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shardul0x&layout=compact&theme=tokyonight" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shardul0x&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shardul0x&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
 # 📫 Connect With Me
 
-<p align="left">
+<div align="left">
 
 🌐 GitHub: https://github.com/Shardul0x
 
-💼 LinkedIn: *(Add your LinkedIn URL)*
+💼 LinkedIn: https://linkedin.com/in/shardul-bangale
 
 📧 Email: shardulbangale@gmail.com
 
-</p>
+</div>
 
 ---
 
@@ -292,18 +318,7 @@ I’m currently exploring:
 
 ---
 
-# 🧠 Profile Summary
-
-```text
-Cybersecurity Engineer | Applied AI Builder | Compiler Security Researcher
-
-Building resilient systems across:
-AI • Zero Trust • PQC • Compiler Security • Industrial Cybersecurity
-```
-
----
-
-# 🔥 Focus Areas
+# 🧠 Focus Areas
 
 ```text
 AI Security
@@ -319,6 +334,6 @@ Secure Infrastructure
 
 <div align="center">
 
-### ⚔️ Secure Systems. Intelligent Architectures. Adversarial Resilience.
+### ⚔️ Secure Systems • Intelligent Architectures • Adversarial Resilience
 
 </div>
