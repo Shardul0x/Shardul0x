@@ -1,349 +1,127 @@
 <div align="center">
 
-# Shardul Bangale
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3443,100:34e89e&height=180&section=header&text=Shardul%20Bangale&fontSize=40&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=%3E%20whoami%20%3A%3A%20Security%20Engineer%20%2F%2F%20AI%20Systems%20Builder&descAlignY=58&descSize=16&descColor=39ff14"/>
 
-### ⚔️ Cybersecurity Engineer • Applied AI Builder • Compiler Security Researcher
+<a href="https://github.com/Shardul0x">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=700&color=39FF14&center=true&vCenter=true&width=650&lines=%5Bsystem%5D+booting+adversarial-resilient+infrastructure...;%5Bmodule%5D+zero-trust+%2B+post-quantum-crypto+%2B+ICS-security;%5Bstatus%5D+available+for+remote+%2F+contract+engagements" />
+</a>
 
-<p align="center">
-Building intelligent systems designed to survive adversarial environments.
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-Researcher-red?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Applied-AI-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Zero%20Trust-Architect-green?style=for-the-badge">
-</p>
-
-<p align="center">
-  <a href="https://github.com/Shardul0x">
-    <img src="https://img.shields.io/badge/GitHub-Shardul0x-181717?style=flat-square&logo=github">
-  </a>
-  
-  <a href="https://linkedin.com/in/shardul-bangale">
-    <img src="https://img.shields.io/badge/LinkedIn-Shardul%20Bangale-0A66C2?style=flat-square&logo=linkedin">
-  </a>
-
-  <a href="mailto:shardulbangale@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail">
-  </a>
-</p>
+![GitHub](https://img.shields.io/badge/GITHUB-Shardul0x-00ff9c?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)
+![LinkedIn](https://img.shields.io/badge/LINKEDIN-connect-00ff9c?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0d1117)
+![Status](https://img.shields.io/badge/STATUS-open--to--remote-39ff14?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
----
-
-# 🧠 About Me
-
-I’m a Computer Science Engineering student specializing in **Cybersecurity, IoT, and Applied AI** at **VIIT Pune**.
-
-My work focuses on designing systems that are:
-
-- secure by architecture,
-- resilient under adversarial pressure,
-- and intelligent through AI.
-
-I work at the intersection of:
-
-- 🔐 Cybersecurity
-- 🧠 Applied Artificial Intelligence
-- 🧩 Compiler Security & Obfuscation
-- 🔮 Post-Quantum Cryptography
-- 🌐 Privacy-Preserving Computation
-- ⚙️ Industrial & IoT Security
-
-I’m particularly interested in building systems capable of surviving:
-
-- infrastructure compromise,
-- hostile environments,
-- and future cryptographic shifts.
-
----
-
-# ⚡ What I Work On
-
-## 🔐 AI-Driven Cybersecurity
-
-- Threat Intelligence Systems
-- Real-time Anomaly Detection
-- Behavioral Threat Analytics
-- SIEM-integrated Security Monitoring
-- Autonomous Detection Pipelines
-
----
-
-## 🧩 Compiler Security & Reverse Engineering Resistance
-
-- LLVM-based Obfuscation
-- Control Flow Flattening
-- Encrypted String Protection
-- Anti-analysis Techniques
-- Reverse Engineering Resistance
-
----
-
-## 🔮 Post-Quantum Cryptography
-
-- ML-KEM / Kyber
-- Hybrid PQC Architectures
-- Quantum-resistant Messaging
-- Secure Key Exchange Systems
-
----
-
-## 🌐 Privacy-Preserving AI
-
-- Homomorphic Encryption
-- Secure Computation
-- Encrypted AI Inference
-- Privacy-safe Machine Learning
-
----
-
-## 🌌 Scientific Deep Learning
-
-- CNNs
-- VAEs
-- PINNs
-- Scientific Modeling Pipelines
-- Astrophysical Deep Learning
-
----
-
-# 🚀 Featured Projects
-
-## ⚔️ Zero Trust Factory Control Plane (ZTFCP)
-
-Industrial cybersecurity architecture implementing:
-
-- Purdue Model segmentation
-- mTLS device authentication
-- MQTT ACL micro-segmentation
-- AI-powered anomaly detection
-- Autonomous ICS threat response
-
-### Stack
+<br/>
 
 ```bash
-ESP32 • Jetson Nano • Prometheus • Grafana • Isolation Forest
+$ cat about.md
 ```
 
----
+CS Engineer (Cybersecurity/IoT · VIIT Pune) — currently inside the SOC at Endurance Technologies,
+building multi-server log monitoring + anomaly detection under production constraints.
+CRTA-certified. Published: IEEE Xplore, Springer Nature. I ship full systems — architecture through
+deployment — not proof-of-concepts that die in a notebook.
 
-## 🛡️ LLVM Obfuscator — NTRO Project
-
-Custom compiler-integrated protection framework featuring:
-
-- Control-flow flattening
-- Encrypted strings
-- Anti-analysis transformations
-- Reverse engineering resistance
-
-### Stack
+<br/>
 
 ```bash
-LLVM • C++ • Compiler Internals
+$ ls ./projects --sort=impact
 ```
 
----
+<table>
+<tr>
+<td width="600">
 
-## 🔐 PQC + Homomorphic Encryption Secure Chat
+**[`zero-trust-factory-control-plane`](https://github.com/ArYa-KuWaR/Zero-Trust-Factory)** · *core contributor (~90-95% implementation)*
+Air-gapped ICS security layer, ESP32 edge fleet. mTLS/X.509 hardware auth + Isolation Forest
+anomaly detection — autonomous threat containment in **< 2s**.
+`ESP32` `Jetson Nano` `Prometheus` `Grafana` `Isolation Forest`
 
-Quantum-resistant secure messaging architecture combining:
+</td>
+</tr>
+<tr>
+<td width="600">
 
-- ML-KEM-1024
-- Homomorphic Encryption
-- Secure encrypted server-side computation
+**[`hiremind`](https://oclabs-ui.vercel.app/)** — *live*
+Full-stack AI interview simulator. React + FastAPI + Groq LLMs + FAISS retrieval, real-time
+OpenCV proctoring at **50+ concurrent sessions**.
+`React` `FastAPI` `Groq` `FAISS` `OpenCV`
 
-### Stack
+</td>
+</tr>
+<tr>
+<td width="600">
+
+**[`pqc-homomorphic-secure-chat`](https://github.com/ArYa-KuWaR/PQC-Homomorphic-Encryption-Industry-Project)** · *core contributor (~90-95% implementation)*
+Quantum-resistant messaging: ML-KEM-1024 + TenSEAL homomorphic encryption for
+privacy-preserving compute on ciphertext.
+`Python` `TenSEAL` `Post-Quantum Crypto`
+
+</td>
+</tr>
+<tr>
+<td width="600">
+
+**[`spectre-obfuscator`](https://github.com/ArYa-KuWaR/Spectre-Obfuscator)** · *core contributor (~90-95% implementation)*
+Compiler-level binary protection — control-flow flattening + string encryption, defeats
+**95%** of standard static-analysis tooling.
+`C++` `LLVM`
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ```bash
-TenSEAL • Python • Post-Quantum Crypto
+$ cat stack.json
 ```
 
----
+```json
+{
+  "security":   ["Zero Trust Architecture", "mTLS/X.509", "LLVM Obfuscation", "PQC", "ICS/OT", "MQTT"],
+  "ai_ml":      ["TensorFlow", "Scikit-learn", "LangChain", "FAISS", "OpenCV", "Isolation Forest"],
+  "build":      ["Python", "C/C++", "TypeScript", "React", "FastAPI", "MongoDB", "Supabase"],
+  "monitoring": ["Prometheus", "Grafana"]
+}
+```
 
-## 🧠 HireMind — AI Interview Platform
-
-AI-powered interview simulation ecosystem featuring:
-
-- LLM-assisted evaluation
-- Real-time proctoring
-- OpenCV monitoring
-- Vector search pipelines
-
-### Stack
+<br/>
 
 ```bash
-React • FastAPI • Groq LLMs • FAISS
+$ cat publications.log
 ```
 
----
-
-## 🌌 Galaxy Evolution Modeling
-
-Deep learning research pipeline applying:
-
-- VAEs
-- PINNs
-- Temporal scientific modeling
-- Astrophysical morphology prediction
-
----
-
-# 📚 Publications & Research
-
-## 📄 Publications
-
-- **Predictive Startup Analytics via Ensemble Learning** — IEEE Xplore (2026)
-- **Galaxy Evolution via VAEs and PINNs** — Springer Nature SCI-2026
-- **Hybrid PQC Framework for Secure Messaging** — IEEE Sponsored IGNITE-2026
-
----
-
-# 🧰 Core Stack
-
-## 💻 Languages
+- `[IEEE Xplore 2026]` Predictive Startup Analytics via Ensemble Learning
+- `[IEEE IGNITE-2026]` Hybrid PQC Framework for Secure Messaging
+- `[Springer SCI-2026]` Galaxy Evolution via VAEs and PINNs
 
 ```bash
-Python • C/C++ • Java • JavaScript • TypeScript • SQL
+$ cat achievements.log
 ```
 
----
-
-## 🔐 Cybersecurity
+- `IIT Jammu Hackathon` — Rank 2 / 800+
+- `IIT Guwahati Convolve` — Rank 30 / 4200
+- `BITS Pilani APOGEE` — Top 5
+- `DTU EHAX CTF` — Top 11
 
 ```bash
-Threat Intelligence
-Zero Trust Architecture
-Reverse Engineering
-mTLS & X.509
-LLVM Obfuscation
-PQC
-ICS / OT Security
-MQTT Security
+$ cat certs.log
 ```
 
----
+`CRTA` — Certified Red Team Analyst · `Google Cybersecurity Professional` · `Cisco CCNA`
 
-## 🧠 AI / ML
-
-```bash
-TensorFlow
-Scikit-learn
-LangChain
-FAISS
-OpenCV
-LLM Systems
-Isolation Forest
-```
-
----
-
-## ⚙️ Infrastructure & Tools
-
-```bash
-FastAPI
-React
-MERN Stack
-MongoDB
-Supabase
-Firebase
-Prometheus
-Grafana
-Git
-Linux
-```
-
----
-
-# 🏆 Achievements
-
-- 🥈 IIT Jammu Hackathon — Rank 2 / 800+
-- 🏆 BITS Pilani APOGEE — Top 5
-- 🧠 IIT Guwahati Convolve — Rank 30 / 4200
-- 🔐 DTU EHAX CTF — Top 11
-
----
-
-# 📜 Certifications
-
-- CRTA — Certified Red Team Analyst
-- Google Cybersecurity Professional Certificate
-- Cisco CCNA Routing & Switching
-
----
-
-# 🌍 Current Interests
-
-I’m currently exploring:
-
-- AI-powered cyber defense systems
-- Adversarially resilient architectures
-- Compiler-assisted software protection
-- Privacy-preserving AI pipelines
-- Industrial cybersecurity
-- Post-quantum secure infrastructure
-
----
-
-# 📊 GitHub Analytics
+<br/>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shardul0x&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shardul0x&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Shardul0x&theme=tokyonight"/>
-
-</div>
-
----
-
-# 📫 Connect With Me
-
-<div align="left">
-
-🌐 GitHub: https://github.com/Shardul0x
-
-💼 LinkedIn: https://linkedin.com/in/shardul-bangale
-
-📧 Email: shardulbangale@gmail.com
-
-</div>
-
----
-
-# ⚡ Philosophy
-
-> “Future systems must not only be intelligent — they must remain secure under adversarial conditions.”
-
----
-
-# 🧠 Focus Areas
-
-```text
-AI Security
-Industrial Security
-Compiler Obfuscation
-Threat Intelligence
-Post-Quantum Cryptography
-Privacy-Preserving AI
-Secure Infrastructure
+```
+> connect --user shardulbangale@gmail.com --linkedin /in/shardul-bangale --location Pune,IN --remote true
 ```
 
----
-
-<div align="center">
-
-### ⚔️ Secure Systems • Intelligent Architectures • Adversarial Resilience
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:34e89e,50:0f3443,100:0d1117&height=100&section=footer"/>
 
 </div>
